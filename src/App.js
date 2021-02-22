@@ -9,13 +9,20 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
+        <p2>What does this look like?</p2>
+        <ul>And what if i add a list:
+          <li>What</li>
+          <li>an</li>
+          <li>awesome</li>
+          <li>test.</li>
+        </ul>
         <a
           className="App-link"
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Hello World!
         </a>
       </header>
     </div>
