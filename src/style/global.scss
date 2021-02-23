@@ -1,0 +1,12 @@
+// src/style/global.scss
+
+@import "./config";
+@import "~bootstrap";
+
+.my-5 {
+  margin-top: $spacer * 3 !important;
+}
+
+.mb-4 {
+  margin-bottom: $spacer * 1.5 !important;
+}
